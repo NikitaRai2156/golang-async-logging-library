@@ -1,7 +1,7 @@
 package main
 
 import (
-	"GOLANG-ASYNC-LOGGING-LIBRARY/alog"
+	"alog"
 	"bufio"
 	"flag"
 	"fmt"
